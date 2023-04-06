@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "grammy": "^1.15.3"
+  }
+}
